@@ -1,0 +1,2 @@
+# On start:
+npm i
